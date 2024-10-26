@@ -2,6 +2,8 @@
 <h3 align="center">A passionate web developer from Tunisia</h3>
 
 -  **I love coffee and programming ☕**
+- I'm currently learning mern stack⚡ **
+-📫 Want to reach me ? alibouajila18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
